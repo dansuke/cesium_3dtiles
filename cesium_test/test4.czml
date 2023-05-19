@@ -1,0 +1,16 @@
+[
+   {
+      "id" : "document",
+      "version" : "1.0",
+   },
+   {
+      "id" : 0,
+      "position": {
+            "cartographicDegrees": [139.7673, 35.6812, 10000]
+        },
+      "availability" : "2021-01-23T15:00:00Z/2021-01-23T15:10:00Z",
+      "tileset" : {
+         "uri": "https://dansuke.github.io/cesium_3dtiles/mesh_model1.gltf"
+      }
+   }
+]

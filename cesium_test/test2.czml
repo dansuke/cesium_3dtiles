@@ -1,0 +1,15 @@
+[
+    {
+        "id": "document",
+        "name": "Cesium CZML Sample",
+        "version": "1.0"
+    },
+    {
+        "id": "my3DTileset",
+        "name": "3D Tileset",
+        "tileset": "output18",
+        "position": {
+            "cartographicDegrees":  [139.6917, 35.6895, 80]
+        }
+    }
+]

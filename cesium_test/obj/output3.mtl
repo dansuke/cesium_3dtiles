@@ -1,0 +1,800 @@
+newmtl material_0_0
+Kd 0.0 0.0 0.5
+newmtl material_0_1
+Kd 0.0 0.0 0.5
+newmtl material_0_2
+Kd 0.0 0.0 0.5
+newmtl material_0_3
+Kd 0.0 0.0 0.5
+newmtl material_0_4
+Kd 0.0 0.0 0.5
+newmtl material_0_5
+Kd 0.0 0.0 0.5
+newmtl material_0_6
+Kd 0.0 0.0 0.945632798573975
+newmtl material_0_7
+Kd 0.0 0.0 0.5
+newmtl material_0_8
+Kd 0.0 0.0 0.5
+newmtl material_0_9
+Kd 0.0 0.0 0.5
+newmtl material_0_10
+Kd 0.0 0.0 0.5
+newmtl material_0_11
+Kd 0.0 0.0 0.5
+newmtl material_0_12
+Kd 0.0 0.0 0.5
+newmtl material_0_13
+Kd 0.0 0.0 0.5
+newmtl material_0_14
+Kd 0.0 0.0 0.5
+newmtl material_0_15
+Kd 0.0 0.0 0.5
+newmtl material_0_16
+Kd 0.0 0.0 0.5
+newmtl material_0_17
+Kd 0.0 0.0 0.5
+newmtl material_0_18
+Kd 0.0 0.0 0.5
+newmtl material_0_19
+Kd 0.0 0.0 0.5
+newmtl material_1_0
+Kd 0.0 0.0 0.5
+newmtl material_1_1
+Kd 0.0 0.0 0.5
+newmtl material_1_2
+Kd 0.0 0.0 0.945632798573975
+newmtl material_1_3
+Kd 0.0 0.0 0.5
+newmtl material_1_4
+Kd 0.0 0.3 1.0
+newmtl material_1_5
+Kd 0.0 0.0 0.5
+newmtl material_1_6
+Kd 0.0 0.0 0.5
+newmtl material_1_7
+Kd 0.0 0.0 0.5
+newmtl material_1_8
+Kd 0.0 0.0 0.945632798573975
+newmtl material_1_9
+Kd 0.0 0.0 0.945632798573975
+newmtl material_1_10
+Kd 0.0 0.0 0.945632798573975
+newmtl material_1_11
+Kd 0.0 0.0 0.945632798573975
+newmtl material_1_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_1_13
+Kd 0.0 0.0 0.5
+newmtl material_1_14
+Kd 0.0 0.0 0.5
+newmtl material_1_15
+Kd 0.0 0.3 1.0
+newmtl material_1_16
+Kd 0.0 0.0 0.5
+newmtl material_1_17
+Kd 0.0 0.0 0.945632798573975
+newmtl material_1_18
+Kd 0.0 0.0 0.945632798573975
+newmtl material_1_19
+Kd 0.0 0.0 0.5
+newmtl material_2_0
+Kd 0.0 0.0 0.5
+newmtl material_2_1
+Kd 0.0 0.0 0.945632798573975
+newmtl material_2_2
+Kd 0.0 0.0 0.5
+newmtl material_2_3
+Kd 0.0 0.0 0.5
+newmtl material_2_4
+Kd 0.0 0.0 0.945632798573975
+newmtl material_2_5
+Kd 0.4901960784313725 1.0 0.4775458570524984
+newmtl material_2_6
+Kd 0.0 0.3 1.0
+newmtl material_2_7
+Kd 0.0 0.0 0.5
+newmtl material_2_8
+Kd 0.0 0.3 1.0
+newmtl material_2_9
+Kd 0.0 0.0 0.945632798573975
+newmtl material_2_10
+Kd 0.0 0.0 0.5
+newmtl material_2_11
+Kd 0.0 0.3 1.0
+newmtl material_2_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_2_13
+Kd 0.0 0.0 0.5
+newmtl material_2_14
+Kd 0.0 0.0 0.945632798573975
+newmtl material_2_15
+Kd 0.0 0.0 0.5
+newmtl material_2_16
+Kd 0.0 0.0 0.5
+newmtl material_2_17
+Kd 0.0 0.0 0.945632798573975
+newmtl material_2_18
+Kd 0.0 0.0 0.945632798573975
+newmtl material_2_19
+Kd 0.0 0.0 0.5
+newmtl material_3_0
+Kd 0.0 0.0 0.5
+newmtl material_3_1
+Kd 0.0 0.0 0.5
+newmtl material_3_2
+Kd 0.0 0.0 0.5
+newmtl material_3_3
+Kd 0.0 0.0 0.945632798573975
+newmtl material_3_4
+Kd 0.0 0.0 0.945632798573975
+newmtl material_3_5
+Kd 0.0 0.0 0.945632798573975
+newmtl material_3_6
+Kd 0.0 0.0 0.5
+newmtl material_3_7
+Kd 0.16129032258064513 1.0 0.8064516129032259
+newmtl material_3_8
+Kd 0.0 0.0 0.945632798573975
+newmtl material_3_9
+Kd 0.0 0.3 1.0
+newmtl material_3_10
+Kd 0.0 0.692156862745098 1.0
+newmtl material_3_11
+Kd 0.0 0.0 0.5
+newmtl material_3_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_3_13
+Kd 0.0 0.3 1.0
+newmtl material_3_14
+Kd 0.0 0.0 0.5
+newmtl material_3_15
+Kd 0.0 0.3 1.0
+newmtl material_3_16
+Kd 0.0 0.0 0.5
+newmtl material_3_17
+Kd 0.0 0.0 0.945632798573975
+newmtl material_3_18
+Kd 0.0 0.0 0.5
+newmtl material_3_19
+Kd 0.0 0.0 0.5
+newmtl material_4_0
+Kd 0.0 0.0 0.5
+newmtl material_4_1
+Kd 0.0 0.0 0.5
+newmtl material_4_2
+Kd 0.0 0.0 0.5
+newmtl material_4_3
+Kd 0.0 0.0 0.945632798573975
+newmtl material_4_4
+Kd 0.0 0.3 1.0
+newmtl material_4_5
+Kd 0.0 0.0 0.5
+newmtl material_4_6
+Kd 0.0 0.0 0.5
+newmtl material_4_7
+Kd 0.0 0.0 0.5
+newmtl material_4_8
+Kd 0.0 0.0 0.945632798573975
+newmtl material_4_9
+Kd 0.0 0.692156862745098 1.0
+newmtl material_4_10
+Kd 0.0 0.3 1.0
+newmtl material_4_11
+Kd 0.0 0.0 0.5
+newmtl material_4_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_4_13
+Kd 0.0 0.692156862745098 1.0
+newmtl material_4_14
+Kd 0.0 0.3 1.0
+newmtl material_4_15
+Kd 0.0 0.0 0.5
+newmtl material_4_16
+Kd 0.0 0.0 0.945632798573975
+newmtl material_4_17
+Kd 0.0 0.3 1.0
+newmtl material_4_18
+Kd 0.0 0.0 0.945632798573975
+newmtl material_4_19
+Kd 0.0 0.0 0.5
+newmtl material_5_0
+Kd 0.0 0.0 0.5
+newmtl material_5_1
+Kd 0.0 0.0 0.5
+newmtl material_5_2
+Kd 0.0 0.0 0.945632798573975
+newmtl material_5_3
+Kd 0.0 0.0 0.945632798573975
+newmtl material_5_4
+Kd 0.0 0.0 0.945632798573975
+newmtl material_5_5
+Kd 0.0 0.3 1.0
+newmtl material_5_6
+Kd 0.0 0.0 0.945632798573975
+newmtl material_5_7
+Kd 0.0 0.3 1.0
+newmtl material_5_8
+Kd 0.0 0.0 0.945632798573975
+newmtl material_5_9
+Kd 0.0 0.0 0.5
+newmtl material_5_10
+Kd 0.0 0.692156862745098 1.0
+newmtl material_5_11
+Kd 0.0 0.0 0.5
+newmtl material_5_12
+Kd 0.0 0.3 1.0
+newmtl material_5_13
+Kd 0.0 0.0 0.5
+newmtl material_5_14
+Kd 0.0 0.0 0.945632798573975
+newmtl material_5_15
+Kd 0.0 0.0 0.5
+newmtl material_5_16
+Kd 0.0 0.0 0.5
+newmtl material_5_17
+Kd 0.0 0.0 0.945632798573975
+newmtl material_5_18
+Kd 0.0 0.0 0.945632798573975
+newmtl material_5_19
+Kd 0.0 0.0 0.945632798573975
+newmtl material_6_0
+Kd 0.0 0.0 0.5
+newmtl material_6_1
+Kd 0.0 0.0 0.5
+newmtl material_6_2
+Kd 0.0 0.0 0.945632798573975
+newmtl material_6_3
+Kd 0.0 0.3 1.0
+newmtl material_6_4
+Kd 0.16129032258064513 1.0 0.8064516129032259
+newmtl material_6_5
+Kd 0.0 0.0 0.945632798573975
+newmtl material_6_6
+Kd 0.0 0.3 1.0
+newmtl material_6_7
+Kd 0.0 0.0 0.5
+newmtl material_6_8
+Kd 0.0 0.0 0.5
+newmtl material_6_9
+Kd 0.0 0.692156862745098 1.0
+newmtl material_6_10
+Kd 0.0 0.0 0.5
+newmtl material_6_11
+Kd 0.0 0.0 0.945632798573975
+newmtl material_6_12
+Kd 0.0 0.3 1.0
+newmtl material_6_13
+Kd 0.0 0.0 0.945632798573975
+newmtl material_6_14
+Kd 0.0 0.0 0.5
+newmtl material_6_15
+Kd 0.0 0.3 1.0
+newmtl material_6_16
+Kd 0.0 0.0 0.5
+newmtl material_6_17
+Kd 0.0 0.3 1.0
+newmtl material_6_18
+Kd 0.0 0.0 0.5
+newmtl material_6_19
+Kd 0.0 0.0 0.5
+newmtl material_7_0
+Kd 0.0 0.0 0.5
+newmtl material_7_1
+Kd 0.0 0.0 0.5
+newmtl material_7_2
+Kd 0.0 0.0 0.5
+newmtl material_7_3
+Kd 0.0 0.3 1.0
+newmtl material_7_4
+Kd 0.0 0.0 0.5
+newmtl material_7_5
+Kd 0.0 0.3 1.0
+newmtl material_7_6
+Kd 0.0 0.0 0.945632798573975
+newmtl material_7_7
+Kd 0.0 0.0 0.945632798573975
+newmtl material_7_8
+Kd 0.0 0.0 0.5
+newmtl material_7_9
+Kd 0.0 0.0 0.945632798573975
+newmtl material_7_10
+Kd 0.0 0.0 0.945632798573975
+newmtl material_7_11
+Kd 0.4901960784313725 1.0 0.4775458570524984
+newmtl material_7_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_7_13
+Kd 0.0 0.692156862745098 1.0
+newmtl material_7_14
+Kd 0.0 0.0 0.945632798573975
+newmtl material_7_15
+Kd 0.0 0.0 0.945632798573975
+newmtl material_7_16
+Kd 0.0 0.0 0.5
+newmtl material_7_17
+Kd 0.0 0.692156862745098 1.0
+newmtl material_7_18
+Kd 0.0 0.0 0.5
+newmtl material_7_19
+Kd 0.0 0.0 0.5
+newmtl material_8_0
+Kd 0.0 0.0 0.5
+newmtl material_8_1
+Kd 0.0 0.0 0.945632798573975
+newmtl material_8_2
+Kd 0.0 0.0 0.5
+newmtl material_8_3
+Kd 0.0 0.0 0.5
+newmtl material_8_4
+Kd 0.0 0.0 0.5
+newmtl material_8_5
+Kd 0.0 0.0 0.945632798573975
+newmtl material_8_6
+Kd 0.0 0.0 0.5
+newmtl material_8_7
+Kd 0.0 0.3 1.0
+newmtl material_8_8
+Kd 0.0 0.692156862745098 1.0
+newmtl material_8_9
+Kd 0.0 0.3 1.0
+newmtl material_8_10
+Kd 0.0 0.0 0.945632798573975
+newmtl material_8_11
+Kd 0.0 0.0 0.945632798573975
+newmtl material_8_12
+Kd 0.0 0.692156862745098 1.0
+newmtl material_8_13
+Kd 0.0 0.3 1.0
+newmtl material_8_14
+Kd 0.0 0.0 0.5
+newmtl material_8_15
+Kd 0.0 0.0 0.945632798573975
+newmtl material_8_16
+Kd 0.16129032258064513 1.0 0.8064516129032259
+newmtl material_8_17
+Kd 0.0 0.0 0.945632798573975
+newmtl material_8_18
+Kd 0.0 0.0 0.945632798573975
+newmtl material_8_19
+Kd 0.0 0.0 0.5
+newmtl material_9_0
+Kd 0.0 0.0 0.5
+newmtl material_9_1
+Kd 0.0 0.0 0.5
+newmtl material_9_2
+Kd 0.0 0.0 0.945632798573975
+newmtl material_9_3
+Kd 0.0 0.3 1.0
+newmtl material_9_4
+Kd 0.0 0.3 1.0
+newmtl material_9_5
+Kd 0.0 0.3 1.0
+newmtl material_9_6
+Kd 0.0 0.0 0.5
+newmtl material_9_7
+Kd 0.0 0.0 0.945632798573975
+newmtl material_9_8
+Kd 0.0 0.692156862745098 1.0
+newmtl material_9_9
+Kd 0.4901960784313725 1.0 0.4775458570524984
+newmtl material_9_10
+Kd 0.0 0.0 0.945632798573975
+newmtl material_9_11
+Kd 0.0 0.692156862745098 1.0
+newmtl material_9_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_9_13
+Kd 0.4901960784313725 1.0 0.4775458570524984
+newmtl material_9_14
+Kd 0.0 0.0 0.945632798573975
+newmtl material_9_15
+Kd 0.0 0.0 0.5
+newmtl material_9_16
+Kd 0.0 0.0 0.945632798573975
+newmtl material_9_17
+Kd 0.0 0.0 0.5
+newmtl material_9_18
+Kd 0.0 0.0 0.945632798573975
+newmtl material_9_19
+Kd 0.0 0.0 0.5
+newmtl material_10_0
+Kd 0.0 0.0 0.5
+newmtl material_10_1
+Kd 0.0 0.0 0.5
+newmtl material_10_2
+Kd 0.0 0.3 1.0
+newmtl material_10_3
+Kd 0.0 0.0 0.945632798573975
+newmtl material_10_4
+Kd 0.16129032258064513 1.0 0.8064516129032259
+newmtl material_10_5
+Kd 0.0 0.0 0.5
+newmtl material_10_6
+Kd 0.0 0.0 0.5
+newmtl material_10_7
+Kd 0.0 0.0 0.5
+newmtl material_10_8
+Kd 0.0 0.692156862745098 1.0
+newmtl material_10_9
+Kd 0.16129032258064513 1.0 0.8064516129032259
+newmtl material_10_10
+Kd 0.4901960784313725 1.0 0.4775458570524984
+newmtl material_10_11
+Kd 0.0 0.0 0.945632798573975
+newmtl material_10_12
+Kd 0.0 0.0 0.5
+newmtl material_10_13
+Kd 0.0 0.0 0.945632798573975
+newmtl material_10_14
+Kd 0.0 0.0 0.5
+newmtl material_10_15
+Kd 0.0 0.0 0.945632798573975
+newmtl material_10_16
+Kd 0.0 0.3 1.0
+newmtl material_10_17
+Kd 0.0 0.692156862745098 1.0
+newmtl material_10_18
+Kd 0.0 0.0 0.5
+newmtl material_10_19
+Kd 0.0 0.0 0.5
+newmtl material_11_0
+Kd 0.0 0.0 0.5
+newmtl material_11_1
+Kd 0.0 0.0 0.945632798573975
+newmtl material_11_2
+Kd 0.0 0.0 0.5
+newmtl material_11_3
+Kd 0.0 0.692156862745098 1.0
+newmtl material_11_4
+Kd 0.0 0.0 0.5
+newmtl material_11_5
+Kd 0.0 0.3 1.0
+newmtl material_11_6
+Kd 0.0 0.3 1.0
+newmtl material_11_7
+Kd 0.0 0.0 0.945632798573975
+newmtl material_11_8
+Kd 0.0 0.0 0.945632798573975
+newmtl material_11_9
+Kd 0.0 0.3 1.0
+newmtl material_11_10
+Kd 0.0 0.692156862745098 1.0
+newmtl material_11_11
+Kd 0.0 0.0 0.5
+newmtl material_11_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_11_13
+Kd 0.0 0.3 1.0
+newmtl material_11_14
+Kd 0.0 0.0 0.945632798573975
+newmtl material_11_15
+Kd 0.4901960784313725 1.0 0.4775458570524984
+newmtl material_11_16
+Kd 0.0 0.0 0.5
+newmtl material_11_17
+Kd 0.0 0.0 0.5
+newmtl material_11_18
+Kd 0.0 0.0 0.5
+newmtl material_11_19
+Kd 0.0 0.0 0.5
+newmtl material_12_0
+Kd 0.0 0.0 0.5
+newmtl material_12_1
+Kd 0.0 0.0 0.5
+newmtl material_12_2
+Kd 0.0 0.0 0.945632798573975
+newmtl material_12_3
+Kd 0.0 0.0 0.945632798573975
+newmtl material_12_4
+Kd 0.0 0.0 0.945632798573975
+newmtl material_12_5
+Kd 0.0 0.3 1.0
+newmtl material_12_6
+Kd 0.0 0.0 0.945632798573975
+newmtl material_12_7
+Kd 0.0 0.0 0.5
+newmtl material_12_8
+Kd 0.0 0.692156862745098 1.0
+newmtl material_12_9
+Kd 0.16129032258064513 1.0 0.8064516129032259
+newmtl material_12_10
+Kd 0.0 0.3 1.0
+newmtl material_12_11
+Kd 0.0 0.3 1.0
+newmtl material_12_12
+Kd 0.0 0.0 0.5
+newmtl material_12_13
+Kd 0.0 0.3 1.0
+newmtl material_12_14
+Kd 0.0 0.3 1.0
+newmtl material_12_15
+Kd 0.0 0.0 0.5
+newmtl material_12_16
+Kd 0.0 0.0 0.945632798573975
+newmtl material_12_17
+Kd 0.0 0.0 0.945632798573975
+newmtl material_12_18
+Kd 0.0 0.0 0.945632798573975
+newmtl material_12_19
+Kd 0.0 0.0 0.5
+newmtl material_13_0
+Kd 0.0 0.0 0.5
+newmtl material_13_1
+Kd 0.0 0.0 0.5
+newmtl material_13_2
+Kd 0.0 0.0 0.945632798573975
+newmtl material_13_3
+Kd 0.0 0.692156862745098 1.0
+newmtl material_13_4
+Kd 0.0 0.3 1.0
+newmtl material_13_5
+Kd 0.0 0.0 0.945632798573975
+newmtl material_13_6
+Kd 0.0 0.0 0.945632798573975
+newmtl material_13_7
+Kd 0.0 0.3 1.0
+newmtl material_13_8
+Kd 0.0 0.0 0.5
+newmtl material_13_9
+Kd 0.0 0.3 1.0
+newmtl material_13_10
+Kd 0.0 0.0 0.945632798573975
+newmtl material_13_11
+Kd 0.0 0.3 1.0
+newmtl material_13_12
+Kd 0.0 0.3 1.0
+newmtl material_13_13
+Kd 0.0 0.0 0.945632798573975
+newmtl material_13_14
+Kd 0.0 0.0 0.5
+newmtl material_13_15
+Kd 0.0 0.0 0.5
+newmtl material_13_16
+Kd 0.0 0.3 1.0
+newmtl material_13_17
+Kd 0.0 0.0 0.945632798573975
+newmtl material_13_18
+Kd 0.0 0.0 0.5
+newmtl material_13_19
+Kd 0.0 0.0 0.5
+newmtl material_14_0
+Kd 0.0 0.0 0.945632798573975
+newmtl material_14_1
+Kd 0.0 0.3 1.0
+newmtl material_14_2
+Kd 0.0 0.0 0.945632798573975
+newmtl material_14_3
+Kd 0.0 0.0 0.945632798573975
+newmtl material_14_4
+Kd 0.0 0.0 0.945632798573975
+newmtl material_14_5
+Kd 0.0 0.0 0.945632798573975
+newmtl material_14_6
+Kd 0.0 0.0 0.5
+newmtl material_14_7
+Kd 0.0 0.0 0.5
+newmtl material_14_8
+Kd 0.0 0.692156862745098 1.0
+newmtl material_14_9
+Kd 0.0 0.3 1.0
+newmtl material_14_10
+Kd 0.0 0.692156862745098 1.0
+newmtl material_14_11
+Kd 0.0 0.0 0.945632798573975
+newmtl material_14_12
+Kd 0.0 0.0 0.5
+newmtl material_14_13
+Kd 0.0 0.0 0.945632798573975
+newmtl material_14_14
+Kd 0.0 0.692156862745098 1.0
+newmtl material_14_15
+Kd 0.0 0.0 0.945632798573975
+newmtl material_14_16
+Kd 0.0 0.0 0.5
+newmtl material_14_17
+Kd 0.0 0.3 1.0
+newmtl material_14_18
+Kd 0.0 0.0 0.945632798573975
+newmtl material_14_19
+Kd 0.0 0.0 0.5
+newmtl material_15_0
+Kd 0.0 0.0 0.5
+newmtl material_15_1
+Kd 0.0 0.0 0.5
+newmtl material_15_2
+Kd 0.0 0.3 1.0
+newmtl material_15_3
+Kd 0.0 0.0 0.5
+newmtl material_15_4
+Kd 0.0 0.0 0.945632798573975
+newmtl material_15_5
+Kd 0.0 0.0 0.945632798573975
+newmtl material_15_6
+Kd 0.0 0.3 1.0
+newmtl material_15_7
+Kd 0.0 0.3 1.0
+newmtl material_15_8
+Kd 0.0 0.3 1.0
+newmtl material_15_9
+Kd 0.0 0.0 0.5
+newmtl material_15_10
+Kd 0.0 0.3 1.0
+newmtl material_15_11
+Kd 0.0 0.0 0.945632798573975
+newmtl material_15_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_15_13
+Kd 0.0 0.0 0.5
+newmtl material_15_14
+Kd 0.0 0.3 1.0
+newmtl material_15_15
+Kd 0.0 0.3 1.0
+newmtl material_15_16
+Kd 0.0 0.0 0.5
+newmtl material_15_17
+Kd 0.0 0.0 0.945632798573975
+newmtl material_15_18
+Kd 0.0 0.0 0.5
+newmtl material_15_19
+Kd 0.0 0.0 0.5
+newmtl material_16_0
+Kd 0.0 0.0 0.5
+newmtl material_16_1
+Kd 0.0 0.0 0.945632798573975
+newmtl material_16_2
+Kd 0.0 0.0 0.5
+newmtl material_16_3
+Kd 0.0 0.0 0.945632798573975
+newmtl material_16_4
+Kd 0.0 0.3 1.0
+newmtl material_16_5
+Kd 0.0 0.692156862745098 1.0
+newmtl material_16_6
+Kd 0.0 0.0 0.945632798573975
+newmtl material_16_7
+Kd 0.0 0.0 0.5
+newmtl material_16_8
+Kd 0.0 0.0 0.945632798573975
+newmtl material_16_9
+Kd 0.0 0.3 1.0
+newmtl material_16_10
+Kd 0.0 0.3 1.0
+newmtl material_16_11
+Kd 0.0 0.0 0.945632798573975
+newmtl material_16_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_16_13
+Kd 0.0 0.0 0.945632798573975
+newmtl material_16_14
+Kd 0.0 0.3 1.0
+newmtl material_16_15
+Kd 0.0 0.0 0.5
+newmtl material_16_16
+Kd 0.0 0.0 0.945632798573975
+newmtl material_16_17
+Kd 0.0 0.0 0.5
+newmtl material_16_18
+Kd 0.0 0.0 0.945632798573975
+newmtl material_16_19
+Kd 0.0 0.0 0.5
+newmtl material_17_0
+Kd 0.0 0.0 0.5
+newmtl material_17_1
+Kd 0.0 0.0 0.5
+newmtl material_17_2
+Kd 0.0 0.0 0.5
+newmtl material_17_3
+Kd 0.0 0.3 1.0
+newmtl material_17_4
+Kd 0.0 0.0 0.5
+newmtl material_17_5
+Kd 0.0 0.3 1.0
+newmtl material_17_6
+Kd 0.0 0.692156862745098 1.0
+newmtl material_17_7
+Kd 0.0 0.0 0.945632798573975
+newmtl material_17_8
+Kd 0.0 0.0 0.5
+newmtl material_17_9
+Kd 0.0 0.3 1.0
+newmtl material_17_10
+Kd 0.0 0.3 1.0
+newmtl material_17_11
+Kd 0.0 0.0 0.5
+newmtl material_17_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_17_13
+Kd 0.0 0.3 1.0
+newmtl material_17_14
+Kd 0.0 0.692156862745098 1.0
+newmtl material_17_15
+Kd 0.0 0.0 0.945632798573975
+newmtl material_17_16
+Kd 0.0 0.0 0.5
+newmtl material_17_17
+Kd 0.0 0.0 0.945632798573975
+newmtl material_17_18
+Kd 0.0 0.0 0.5
+newmtl material_17_19
+Kd 0.0 0.0 0.5
+newmtl material_18_0
+Kd 0.0 0.0 0.945632798573975
+newmtl material_18_1
+Kd 0.0 0.0 0.5
+newmtl material_18_2
+Kd 0.0 0.0 0.5
+newmtl material_18_3
+Kd 0.0 0.0 0.5
+newmtl material_18_4
+Kd 0.0 0.0 0.5
+newmtl material_18_5
+Kd 0.0 0.0 0.5
+newmtl material_18_6
+Kd 0.0 0.0 0.945632798573975
+newmtl material_18_7
+Kd 0.0 0.0 0.5
+newmtl material_18_8
+Kd 0.0 0.0 0.945632798573975
+newmtl material_18_9
+Kd 0.0 0.0 0.945632798573975
+newmtl material_18_10
+Kd 0.0 0.0 0.945632798573975
+newmtl material_18_11
+Kd 0.0 0.0 0.5
+newmtl material_18_12
+Kd 0.0 0.0 0.945632798573975
+newmtl material_18_13
+Kd 0.0 0.0 0.5
+newmtl material_18_14
+Kd 0.0 0.0 0.5
+newmtl material_18_15
+Kd 0.0 0.0 0.5
+newmtl material_18_16
+Kd 0.0 0.0 0.945632798573975
+newmtl material_18_17
+Kd 0.0 0.3 1.0
+newmtl material_18_18
+Kd 0.0 0.0 0.5
+newmtl material_18_19
+Kd 0.0 0.0 0.5
+newmtl material_19_0
+Kd 0.0 0.0 0.5
+newmtl material_19_1
+Kd 0.0 0.0 0.5
+newmtl material_19_2
+Kd 0.0 0.0 0.5
+newmtl material_19_3
+Kd 0.0 0.0 0.5
+newmtl material_19_4
+Kd 0.0 0.0 0.5
+newmtl material_19_5
+Kd 0.0 0.0 0.5
+newmtl material_19_6
+Kd 0.0 0.0 0.5
+newmtl material_19_7
+Kd 0.0 0.0 0.5
+newmtl material_19_8
+Kd 0.0 0.0 0.5
+newmtl material_19_9
+Kd 0.0 0.0 0.5
+newmtl material_19_10
+Kd 0.0 0.0 0.5
+newmtl material_19_11
+Kd 0.0 0.0 0.5
+newmtl material_19_12
+Kd 0.0 0.0 0.5
+newmtl material_19_13
+Kd 0.0 0.0 0.5
+newmtl material_19_14
+Kd 0.0 0.0 0.5
+newmtl material_19_15
+Kd 0.0 0.0 0.5
+newmtl material_19_16
+Kd 0.0 0.0 0.945632798573975
+newmtl material_19_17
+Kd 0.0 0.3 1.0
+newmtl material_19_18
+Kd 0.0 0.0 0.5
+newmtl material_19_19
+Kd 0.0 0.0 0.5

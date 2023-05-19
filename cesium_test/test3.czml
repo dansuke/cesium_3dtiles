@@ -1,0 +1,23 @@
+[
+   {
+        "id" : "document",
+        "version" : "1.0",
+        "clock" : {
+            "interval" : "2021-01-23T15:00:00Z/2021-01-26T16:00:00Z",
+            "currentTime" : "2021-01-23T15:00:00Z",
+            "step" : "SYSTEM_CLOCK_MULTIPLIER",
+            "multiplier" : 200
+        }
+   }, 
+   {
+        "id": "model",
+        "position": {
+            "cartographicDegrees": [139.7670, 35.6812, 0]
+        },
+        "model": {
+            "gltf": "https://dansuke.github.io/cesium_3dtiles/mesh_model.gltf",
+            "scale": 10.0,
+            "minimumPixelSize": 128
+        }
+    }
+]
